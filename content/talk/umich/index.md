@@ -1,32 +1,30 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "PEDALONS: Zoom and Regional Climates"
-event: "PEDALONS: Zoom and Regional Climates"
-event_url: "https://lmdz.lmd.jussieu.fr/le-coin-des-developpeurs/reunions/2020-01-13"
-location: LMD
+title: "Tenth Annual International Graduate Student Workshop"
+event: "Armenian Studies and Material Objects"
+event_url: "https://ii.umich.edu/armenian/news-events/all-events/workshops/april-2019--armenian-studies-and-material-objects.html"
+location: The University of Michigan
 address:
-  street: 4, place Jussieu (Tour 45-55, 2ème étage, salle 201-A)
-  city: Paris
+  street: 
+  city: 
   region:
   postcode:
-  country: France
-summary: "Modélisation de la variabilité et des tendances climatiques en
-Himalaya pour une meilleure compréhension de leurs impacts sur la
-cryosphère"
+  country: 
+summary: "Inspired by the interdisciplinary possibilities and the innovative scholarly avenues that the study of materiality can open in the field of Armenian Studies, the 2019 International Graduate Student Workshop focuses on the theme of material objects. The exploration of society, arts, culture, and politics through material objects will provide opportunities to discover the ordinary or the everyday practices and experiences of Armenian communities across space and time."
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-01-13T09:30:00+02:00
-date_end: 2020-01-13T12:30:00+02:00
-all_day: false
+date: 2019-04-26
+date_end: 2019-04-27
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-05-19T17:48:38+02:00
+publishDate: 
 
 authors: []
-tags: ["PEDALONS", "LMDZ", "Himalaya"]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -51,7 +49,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: "talk/zoom-and-regional-climates/20200113_PEDALONS_zoom_LALANDE.pdf"
+url_pdf: "https://lsa.umich.edu/content/dam/armenian-assets/armenian-documents/Updated%20program.pdf"
 url_video:
 
 # Markdown Slides (optional).
